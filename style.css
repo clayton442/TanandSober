@@ -1,0 +1,100 @@
+/*navbar*/
+
+@media (min-width: 992px){
+    .navbar {
+        margin-top: 1em;
+    }
+}
+
+@media (min-width: 992px){
+    .navbar li {
+        margin-left : 2em;
+        margin-right : 2em;
+        color: black;
+    }
+}
+
+.navbar li a {
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.navbar .navbar-toggler .icon-bar {
+  background: black !important;
+}
+
+/*index*/
+
+.carousel-caption {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+}
+
+.homeJumbo {
+    margin-top: 44px;
+}
+
+.display-3 {
+    text-align: center;
+}
+
+
+/*calender*/
+iframe {
+    border-radius: 7px;
+}
+
+/*About*/
+#about {
+    margin-top: 54px;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.contactJumbo {
+    margin-top: 84px;
+}
+
+
+.homeWell {
+    margin-top: 20px;
+    padding-bottom: 200px;
+}
+
+.rounded-circle {
+    width: 200px;
+    height: 200px;
+}
+
+/*contact*/
+
+.socialMedia img {
+    height: 80px;
+    -webkit-transition: all .25s ease; /* Safari and Chrome */
+    -moz-transition: all .25s ease; /* Firefox */
+    -ms-transition: all .25s ease; /* IE 9 */
+    -o-transition: all .25s ease; /* Opera */
+    transition: all .25s ease;
+}
+
+.socialMedia:hover img {
+    -webkit-transform:scale(1.25); /* Safari and Chrome */
+    -moz-transform:scale(1.25); /* Firefox */
+    -ms-transform:scale(1.25); /* IE 9 */
+    -o-transform:scale(1.25); /* Opera */
+     transform:scale(1.25);
+}
+
+/*video*/
+.embed-responsive {
+    
+}
+
+/*footer*/
+
+footer {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
