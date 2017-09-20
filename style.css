@@ -67,7 +67,6 @@
 /*contact*/
 
 .socialMedia img {
-    height: 80px;
     -webkit-transition: all .25s ease; /* Safari and Chrome */
     -moz-transition: all .25s ease; /* Firefox */
     -ms-transition: all .25s ease; /* IE 9 */
@@ -89,12 +88,13 @@ iframe {
 /*footer*/
 
 footer {
-    margin-top: 90px;
+    margin-top: 40px;
     margin-bottom: 10px;
 }
 
 .footerImg img{
     height: 60px;
+    margin-bottom: 40px;
 }
 
 footer p {
