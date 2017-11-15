@@ -40,8 +40,13 @@
     text-align: center;
 }
 
-/*calender*/
-
+/*calendar*/
+.calendar {
+   height: 500px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 35px;
+}
 /*About*/
 #about {
     margin-top: 54px;
@@ -80,6 +85,10 @@
     -ms-transform:scale(1.25); /* IE 9 */
     -o-transform:scale(1.25); /* Opera */
      transform:scale(1.25);
+}
+
+.contactJumbo {
+    margin-top: 20px;
 }
 /*video*/
 iframe {
