@@ -99,6 +99,23 @@
 iframe {
     border-radius: 7px;
 }
+
+.musicEmbed {
+    margin-top: 40px;
+    
+}
+    
+/*press*/
+.press {
+   margin-left: 30%; 
+}
+
+
+.press-links {
+    text-align: left;
+    
+}
+
 /*footer*/
 
 footer {
